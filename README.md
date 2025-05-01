@@ -11,7 +11,7 @@ This project aims to apply the full predictive analytics workflow—from data cl
 Together, these objectives demonstrate how predictive models can be used to guide real-world operational and strategic decisions in e-commerce.
 
 **Dataset description and source**
-https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+Kaggle – Brazilian E-Commerce Public Dataset by Olist: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 **Tools and libraries used**
 _Programming Language:_
