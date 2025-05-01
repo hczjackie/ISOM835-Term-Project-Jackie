@@ -1,4 +1,4 @@
-ISOM 835 Final Project – Predictive Modeling on Brazilian E-Commerce Data
+**ISOM 835 Final Project – Predictive Modeling on Brazilian E-Commerce Data**
 
 **Project Summary**
 This project applies the full predictive analytics workflow to a real-world Brazilian e-commerce dataset from Olist. It explores how machine learning can help businesses improve logistics, vendor evaluation, and customer satisfaction. Using regression and classification models, the project answers three key business questions related to delivery delays, seller performance, and the relationship between order complexity and satisfaction.
