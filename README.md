@@ -21,18 +21,13 @@ Kaggle – Brazilian E-Commerce Public Dataset by Olist: https://www.kaggle.com/
 
 **Tools and libraries used**
 
-_Programming Language:_
+1. Languages: Python
 
-Python 
+2. Platforms: Google Colab, Jupyter Notebooks, GitHub
 
+3. Resources: Kaggle Datasets
 
-_Key Python Libraries:_
-
-1. pandas – For data manipulation and analysis
-2. numpy – For numerical operations
-3. matplotlib and seaborn – For data visualization
-4. scikit-learn – For preprocessing, regression, classification, and model evaluation
-
+4. Key Python Libraries: pandas, numpy, matplotlib and seaborn, scikit-learn
 
 
 
